@@ -1,6 +1,15 @@
+
 # 📝 MERN Todo App – Stay Organized, One Task at a Time  
-**MongoDB • Express • React • Node.js • CRUD • Responsive Design**  
-MongoDB Express.js React Node.js CRUD RESTful API Live Demo
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![CRUD](https://img.shields.io/badge/CRUD-Supported-informational?style=for-the-badge&color=blue)]()
+[![Responsive](https://img.shields.io/badge/Responsive%20Design-Yes-success?style=for-the-badge)]()
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://mern-todo-app-3ahv.onrender.com/)
+
+---
 
 A modern full-stack task management application that allows users to create, read, update, and delete personal todos — built using the MERN stack.
 
@@ -34,7 +43,7 @@ Built as a demonstration of modern MERN stack capabilities with RESTful APIs and
 ### 🔎 Filtering & UI Feedback
 - Clear task lists  
 - Immediate DOM updates  
-- Visual indication of task completion  
+- Visual indicators for task completion  
 
 ### 🧑‍💻 User Experience
 - Fully responsive design  
@@ -111,7 +120,8 @@ Edit
 ---
 
 ## 🌐 Live Demo  
-🔗 **Try it now** → [MERN Todo App on Render](https://mern-todo-app-3ahv.onrender.com/)
+
+🔗 **Try it Now:** [MERN Todo App on Render](https://mern-todo-app-3ahv.onrender.com/)
 
 ---
 
@@ -120,6 +130,7 @@ Edit
 **Shashwat Khandelwal**  
 🎓 B.Tech Computer Science Student | 💻 MERN Stack Developer  
 
-🔗 [GitHub Profile](https://github.com/SHASHWAT13244)
+🔗 [GitHub](https://github.com/SHASHWAT13244)  
+<!-- 🔗 [LinkedIn](https://linkedin.com/in/your-link-if-you-want-to-add) -->
 
 > “MERN Todo App reflects my goal of building clean, responsive, and maintainable full-stack applications.”
