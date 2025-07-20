@@ -80,12 +80,7 @@ mern-todo-app/
 │ ├── components/ # React components for UI
 │ ├── App.js # Root component
 │ └── api.js # API utility for Axios
-│
-└── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -121,7 +116,7 @@ Edit
 
 ## 🌐 Live Demo  
 
-🔗 **Try it Now:** [MERN Todo App on Render](https://mern-todo-app-3ahv.onrender.com/)
+https://mern-todo-app-3ahv.onrender.com/
 
 ---
 
@@ -131,6 +126,6 @@ Edit
 🎓 B.Tech Computer Science Student | 💻 MERN Stack Developer  
 
 🔗 [GitHub](https://github.com/SHASHWAT13244)  
-<!-- 🔗 [LinkedIn](https://linkedin.com/in/your-link-if-you-want-to-add) -->
+🔗 [LinkedIn](https://www.linkedin.com/in/shashwat-khandelwal-a0564532b/)
 
 > “MERN Todo App reflects my goal of building clean, responsive, and maintainable full-stack applications.”
