@@ -116,7 +116,7 @@ mern-todo-app/
 
 ## 🌐 Live Demo  
 
-https://mern-todo-app-3ahv.onrender.com/
+🔗 **[Visit the App](https://mern-todo-app-3ahv.onrender.com/)**
 
 ---
 
